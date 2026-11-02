@@ -14,6 +14,7 @@
 | 2 | Дождь любви | Главы 2, 12 и 18 | `audio/02-dozhd-lyubvi.mp3` |
 | 3 | Завтра будет дождь | Глава 17 | `audio/03-zavtra-budet-dozhd.mp3` |
 | 4 | За краем тьмы | Глава 21 | `audio/04-za-kraem-tmy.mp3` |
+| 5 | Мир твой | Глава 19 | `audio/05-mir-tvoj.mp3` |
 
 ## Структура
 
