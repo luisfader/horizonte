@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Сияющий горизонт — саундтрек</title>
+  <meta name="description" content="Песни Оксаны из романа-мюзикла «Сияющий горизонт» Роберта Фадера.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,700;1,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <div class="ash" aria-hidden="true"></div>
+  <div class="rain" aria-hidden="true"></div>
+
+  <header class="hero">
+    <div class="wrap hero-inner">
+      <img class="cover" src="assets/img/cover.jpg" alt="Обложка романа «Сияющий горизонт»">
+      <div>
+        <p class="eyebrow">КАМЕРТОН · Песня не утверждена</p>
+        <h1>Сияющий<br><em>горизонт</em></h1>
+        <p class="lead">Саундтрек к роману-мюзиклу Роберта Фадера.</p>
+        <p class="decree">После катастрофы мир замолчал.<br>Оксана — нет.</p>
+        <button class="btn" id="playAll" type="button">▶ Слушать с начала</button>
+      </div>
+    </div>
+    <div class="horizon" aria-hidden="true"></div>
+  </header>
+
+  <main class="wrap">
+    <h2 class="section-title">Песни</h2>
+    <ol class="tracks" id="tracks"></ol>
+
+    <section class="lyrics" id="lyrics" hidden>
+      <p class="eyebrow" id="lyricsScene"></p>
+      <h2 id="lyricsTitle"></h2>
+      <div id="lyricsBody" class="lyrics-body"></div>
+    </section>
+  </main>
+
+  <footer class="wrap foot">
+    <p>Музыка и тексты: Роберт Фадер · Песни Оксаны из Некрологии, где воду выдают по стакану, а песни — по протоколу.</p>
+  </footer>
+
+  <div class="player" id="player" hidden>
+    <button class="pbtn" id="prev" type="button" aria-label="Предыдущая">⏮</button>
+    <button class="pbtn big" id="toggle" type="button" aria-label="Играть">▶</button>
+    <button class="pbtn" id="next" type="button" aria-label="Следующая">⏭</button>
+    <div class="pinfo">
+      <span id="nowTitle"></span>
+      <input type="range" id="seek" min="0" max="100" value="0" step="0.1" aria-label="Позиция">
+    </div>
+    <span class="ptime" id="time">0:00</span>
+  </div>
+  <audio id="audio" preload="none"></audio>
+
+  <script src="assets/js/canzoni.js"></script>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>
