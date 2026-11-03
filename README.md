@@ -16,6 +16,7 @@
 | 4 | За краем тьмы | Глава 21 | `audio/04-za-kraem-tmy.mp3` |
 | 5 | Мир твой | Глава 19 | `audio/05-mir-tvoj.mp3` |
 | 6 | Прощай, плохая зима | Глава 1 | `audio/06-proshchaj-plohaya-zima.mp3` |
+| 7 | Акварельные облака | Глава 22 | `audio/07-akvarelnye-oblaka.mp3` |
 
 ## Структура
 
