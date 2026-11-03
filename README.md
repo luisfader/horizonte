@@ -17,6 +17,7 @@
 | 5 | Мир твой | Глава 19 | `audio/05-mir-tvoj.mp3` |
 | 6 | Прощай, плохая зима | Глава 1 | `audio/06-proshchaj-plohaya-zima.mp3` |
 | 7 | Акварельные облака | Глава 22 | `audio/07-akvarelnye-oblaka.mp3` |
+| 8 | Твоя задница — ядерный взрыв (поёт Таракан) | Глава 2 | `audio/08-tvoya-zadnica.mp3` |
 
 ## Структура
 
