@@ -18,6 +18,7 @@
 | 6 | Прощай, плохая зима | Глава 1 | `audio/06-proshchaj-plohaya-zima.mp3` |
 | 7 | Акварельные облака | Глава 22 | `audio/07-akvarelnye-oblaka.mp3` |
 | 8 | Твоя задница — ядерный взрыв (поёт Таракан) | Глава 2 | `audio/08-tvoya-zadnica.mp3` |
+| 9 | Шёлковый рассвет | Глава 20 | `audio/09-shyolkovyj-rassvet.mp3` |
 
 ## Структура
 
