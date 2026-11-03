@@ -21,6 +21,7 @@
 | 9 | Шёлковый рассвет | Глава 20 | `audio/09-shyolkovyj-rassvet.mp3` |
 | 10 | Сияющий горизонт | Эпилог | `audio/10-siyayushchij-gorizont.mp3` |
 | 11 | Пока что про себя | Глава 10 | `audio/11-poka-chto-pro-sebya.mp3` |
+| 12 | Предчувствие (инструментал, виолончель) | Главы 13, 14, 21 | `audio/12-predchuvstvie.mp3` |
 
 ## Структура
 
