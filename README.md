@@ -8,20 +8,20 @@
 
 ## Песни
 
-| # | Название | Где звучит в романе | Файл |
+| # | Название | Где звучит в романе (по порядку) | Файл |
 |---|----------|---------------------|------|
 | 1 | Душа в бункере | Глава 1 | `audio/01-dusha-v-bunkere.mp3` |
-| 2 | Дождь любви | Главы 2, 12 и 18 | `audio/02-dozhd-lyubvi.mp3` |
-| 3 | Завтра будет дождь | Глава 17 | `audio/03-zavtra-budet-dozhd.mp3` |
-| 4 | За краем тьмы | Глава 21 | `audio/04-za-kraem-tmy.mp3` |
-| 5 | Мир твой | Глава 19 | `audio/05-mir-tvoj.mp3` |
-| 6 | Прощай, плохая зима | Глава 1 | `audio/06-proshchaj-plohaya-zima.mp3` |
-| 7 | Акварельные облака | Глава 22 | `audio/07-akvarelnye-oblaka.mp3` |
-| 8 | Твоя задница — ядерный взрыв (поёт Таракан) | Глава 2 | `audio/08-tvoya-zadnica.mp3` |
+| 2 | Прощай, плохая зима | Глава 1 | `audio/06-proshchaj-plohaya-zima.mp3` |
+| 3 | Дождь любви | Главы 2, 12 и 18 | `audio/02-dozhd-lyubvi.mp3` |
+| 4 | Твоя задница — ядерный взрыв (поёт Таракан) | Глава 2 | `audio/08-tvoya-zadnica.mp3` |
+| 5 | Пока что про себя | Глава 10 | `audio/11-poka-chto-pro-sebya.mp3` |
+| 6 | Предчувствие (инструментал, виолончель) | Главы 13, 14, 21 | `audio/12-predchuvstvie.mp3` |
+| 7 | Завтра будет дождь | Глава 17 | `audio/03-zavtra-budet-dozhd.mp3` |
+| 8 | Мир твой | Глава 19 | `audio/05-mir-tvoj.mp3` |
 | 9 | Шёлковый рассвет | Глава 20 | `audio/09-shyolkovyj-rassvet.mp3` |
-| 10 | Сияющий горизонт | Эпилог | `audio/10-siyayushchij-gorizont.mp3` |
-| 11 | Пока что про себя | Глава 10 | `audio/11-poka-chto-pro-sebya.mp3` |
-| 12 | Предчувствие (инструментал, виолончель) | Главы 13, 14, 21 | `audio/12-predchuvstvie.mp3` |
+| 10 | За краем тьмы | Глава 21 | `audio/04-za-kraem-tmy.mp3` |
+| 11 | Акварельные облака | Глава 22 | `audio/07-akvarelnye-oblaka.mp3` |
+| 12 | Сияющий горизонт | Эпилог | `audio/10-siyayushchij-gorizont.mp3` |
 
 ## Структура
 
