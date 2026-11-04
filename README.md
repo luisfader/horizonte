@@ -15,7 +15,7 @@
 | 3 | Дождь любви | Главы 2, 12 и 18 | `audio/02-dozhd-lyubvi.mp3` |
 | 4 | Грязные грёзы (поёт Марта) | Глава 2 | `audio/13-gryaznye-gryozy.mp3` |
 | 5 | Ядерный взрыв (поёт Таракан) | Глава 2 | `audio/08-tvoya-zadnica.mp3` |
-| 6 | Завтра будет лучше | Глава 4 | запись скоро (`audio/15-zavtra-budet-luchshe.mp3`) |
+| 6 | Завтра будет лучше | Глава 4 | `audio/15-zavtra-budet-luchshe.mp3` |
 | 7 | Пока что про себя | Глава 10 | `audio/11-poka-chto-pro-sebya.mp3` |
 | 8 | Предчувствие (инструментал, виолончель) | Главы 13, 14, 21 | `audio/12-predchuvstvie.mp3` |
 | 9 | Завтра будет дождь | Глава 17 | `audio/03-zavtra-budet-dozhd.mp3` |
