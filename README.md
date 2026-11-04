@@ -15,15 +15,16 @@
 | 3 | Дождь любви | Главы 2, 12 и 18 | `audio/02-dozhd-lyubvi.mp3` |
 | 4 | Грязные грёзы (поёт Марта) | Глава 2 | `audio/13-gryaznye-gryozy.mp3` |
 | 5 | Ядерный взрыв (поёт Таракан) | Глава 2 | `audio/08-tvoya-zadnica.mp3` |
-| 6 | Пока что про себя | Глава 10 | `audio/11-poka-chto-pro-sebya.mp3` |
-| 7 | Предчувствие (инструментал, виолончель) | Главы 13, 14, 21 | `audio/12-predchuvstvie.mp3` |
-| 8 | Завтра будет дождь | Глава 17 | `audio/03-zavtra-budet-dozhd.mp3` |
-| 9 | Завтра будет дождь (Оксана и Наталья) | К главе 17, вторая версия | `audio/14-zavtra-budet-dozhd-oksana.mp3` |
-| 10 | Мир твой | Глава 19 | `audio/05-mir-tvoj.mp3` |
-| 11 | Шёлковый рассвет | Глава 20 | `audio/09-shyolkovyj-rassvet.mp3` |
-| 12 | За краем тьмы | Глава 21 | `audio/04-za-kraem-tmy.mp3` |
-| 13 | Акварельные облака | Глава 22 | `audio/07-akvarelnye-oblaka.mp3` |
-| 14 | Сияющий горизонт | Эпилог | `audio/10-siyayushchij-gorizont.mp3` |
+| 6 | Завтра будет лучше | Глава 4 | запись скоро (`audio/15-zavtra-budet-luchshe.mp3`) |
+| 7 | Пока что про себя | Глава 10 | `audio/11-poka-chto-pro-sebya.mp3` |
+| 8 | Предчувствие (инструментал, виолончель) | Главы 13, 14, 21 | `audio/12-predchuvstvie.mp3` |
+| 9 | Завтра будет дождь | Глава 17 | `audio/03-zavtra-budet-dozhd.mp3` |
+| 10 | Завтра будет дождь (Оксана и Наталья) | К главе 17, вторая версия | `audio/14-zavtra-budet-dozhd-oksana.mp3` |
+| 11 | Мир твой | Глава 19 | `audio/05-mir-tvoj.mp3` |
+| 12 | Шёлковый рассвет | Глава 20 | `audio/09-shyolkovyj-rassvet.mp3` |
+| 13 | За краем тьмы | Глава 21 | `audio/04-za-kraem-tmy.mp3` |
+| 14 | Акварельные облака | Глава 22 | `audio/07-akvarelnye-oblaka.mp3` |
+| 15 | Сияющий горизонт | Эпилог | `audio/10-siyayushchij-gorizont.mp3` |
 
 ## Структура
 

@@ -20,7 +20,7 @@
         <span class="tscene">${esc(c.scena)} · <span class="tchap">${esc(c.capitolo)}</span></span>
         <span class="tnote">${esc(c.nota)}</span>
       </div>
-      <span class="tdur">${esc(c.durata || "")}</span>
+      <span class="tdur">${c.audio === false ? "скоро" : esc(c.durata || "")}</span>
     </li>`).join("");
 
   // Testi (Markdown semplice: righe e strofe)
@@ -53,6 +53,17 @@
 
   function play(i) {
     if (i < 0 || i >= list.length) return;
+    if (list[i].audio === false) {
+      // Записи ещё нет: показываем только текст
+      if (!audio.paused) audio.pause();
+      current = i;
+      audio.removeAttribute("src");
+      showLyrics(i);
+      $("player").hidden = false;
+      $("nowTitle").textContent = list[i].titolo + " — запись скоро";
+      sync();
+      return;
+    }
     if (i !== current) {
       current = i;
       audio.src = "audio/" + list[i].id + ".mp3";
@@ -83,11 +94,19 @@
   $("playAll").addEventListener("click", () => play(0));
   $("toggle").addEventListener("click", () => (audio.paused ? play(current < 0 ? 0 : current) : audio.pause()));
   $("prev").addEventListener("click", () => (audio.currentTime > 3 ? (audio.currentTime = 0) : play(Math.max(0, current - 1))));
-  $("next").addEventListener("click", () => play(current + 1));
+  $("next").addEventListener("click", () => {
+    let n = current + 1;
+    while (n < list.length && list[n].audio === false) n++;
+    play(n);
+  });
 
   audio.addEventListener("play", sync);
   audio.addEventListener("pause", sync);
-  audio.addEventListener("ended", () => (current + 1 < list.length ? play(current + 1) : sync()));
+  audio.addEventListener("ended", () => {
+    let n = current + 1;
+    while (n < list.length && list[n].audio === false) n++;
+    if (n < list.length) play(n); else sync();
+  });
   audio.addEventListener("timeupdate", () => {
     $("time").textContent = fmt(audio.currentTime);
     if (audio.duration) $("seek").value = (audio.currentTime / audio.duration) * 100;
