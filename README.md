@@ -19,13 +19,14 @@
 | 7 | Пока что про себя | Глава 10 | `audio/11-poka-chto-pro-sebya.mp3` |
 | 8 | Положим ключи (Тёма и охладители) | Глава 11 | `audio/16-polozhim-klyuchi.mp3` |
 | 9 | Предчувствие (инструментал, виолончель) | Главы 13, 14, 21 | `audio/12-predchuvstvie.mp3` |
-| 10 | Завтра будет дождь | Глава 17 | `audio/03-zavtra-budet-dozhd.mp3` |
-| 11 | Завтра будет дождь (Оксана и Наталья) | К главе 17, вторая версия | `audio/14-zavtra-budet-dozhd-oksana.mp3` |
-| 12 | Мир твой | Глава 19 | `audio/05-mir-tvoj.mp3` |
-| 13 | Шёлковый рассвет | Глава 20 | `audio/09-shyolkovyj-rassvet.mp3` |
-| 14 | За краем тьмы | Глава 21 | `audio/04-za-kraem-tmy.mp3` |
-| 15 | Акварельные облака | Глава 22 | `audio/07-akvarelnye-oblaka.mp3` |
-| 16 | Сияющий горизонт | Эпилог | `audio/10-siyayushchij-gorizont.mp3` |
+| 10 | О чём мы мечтаем | Глава 15 | `audio/17-o-chyom-my-mechtaem.mp3` |
+| 11 | Завтра будет дождь | Глава 17 | `audio/03-zavtra-budet-dozhd.mp3` |
+| 12 | Завтра будет дождь (Оксана и Наталья) | К главе 17, вторая версия | `audio/14-zavtra-budet-dozhd-oksana.mp3` |
+| 13 | Мир твой | Глава 19 | `audio/05-mir-tvoj.mp3` |
+| 14 | Шёлковый рассвет | Глава 20 | `audio/09-shyolkovyj-rassvet.mp3` |
+| 15 | За краем тьмы | Глава 21 | `audio/04-za-kraem-tmy.mp3` |
+| 16 | Акварельные облака | Глава 22 | `audio/07-akvarelnye-oblaka.mp3` |
+| 17 | Сияющий горизонт | Эпилог | `audio/10-siyayushchij-gorizont.mp3` |
 
 ## Структура
 
