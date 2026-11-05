@@ -15,18 +15,19 @@
 | 3 | Дождь любви | Главы 2, 12 и 18 | `audio/02-dozhd-lyubvi.mp3` |
 | 4 | Грязные грёзы (поёт Марта) | Глава 2 | `audio/13-gryaznye-gryozy.mp3` |
 | 5 | Ядерный взрыв (поёт Таракан) | Глава 2 | `audio/08-tvoya-zadnica.mp3` |
-| 6 | Завтра будет лучше | Глава 4 | `audio/15-zavtra-budet-luchshe.mp3` |
-| 7 | Пока что про себя | Глава 10 | `audio/11-poka-chto-pro-sebya.mp3` |
-| 8 | Положим ключи (Тёма и охладители) | Глава 11 | `audio/16-polozhim-klyuchi.mp3` |
-| 9 | Предчувствие (инструментал, виолончель) | Главы 13, 14, 21 | `audio/12-predchuvstvie.mp3` |
-| 10 | О чём мы мечтаем | Глава 15 | `audio/17-o-chyom-my-mechtaem.mp3` |
-| 11 | Завтра будет дождь | Глава 17 | `audio/03-zavtra-budet-dozhd.mp3` |
-| 12 | Завтра будет дождь (Оксана и Наталья) | К главе 17, вторая версия | `audio/14-zavtra-budet-dozhd-oksana.mp3` |
-| 13 | Мир твой | Глава 19 | `audio/05-mir-tvoj.mp3` |
-| 14 | Шёлковый рассвет | Глава 20 | `audio/09-shyolkovyj-rassvet.mp3` |
-| 15 | За краем тьмы | Глава 21 | `audio/04-za-kraem-tmy.mp3` |
-| 16 | Акварельные облака | Глава 22 | `audio/07-akvarelnye-oblaka.mp3` |
-| 17 | Сияющий горизонт | Эпилог | `audio/10-siyayushchij-gorizont.mp3` |
+| 6 | Где кончается пустыня | Глава 3 | `audio/18-gde-konchaetsya-pustynya.mp3` |
+| 7 | Завтра будет лучше | Глава 4 | `audio/15-zavtra-budet-luchshe.mp3` |
+| 8 | Пока что про себя | Глава 10 | `audio/11-poka-chto-pro-sebya.mp3` |
+| 9 | Положим ключи (Тёма и охладители) | Глава 11 | `audio/16-polozhim-klyuchi.mp3` |
+| 10 | Предчувствие (инструментал, виолончель) | Главы 13, 14, 21 | `audio/12-predchuvstvie.mp3` |
+| 11 | О чём мы мечтаем | Глава 15 | `audio/17-o-chyom-my-mechtaem.mp3` |
+| 12 | Завтра будет дождь | Глава 17 | `audio/03-zavtra-budet-dozhd.mp3` |
+| 13 | Завтра будет дождь (Оксана и Наталья) | К главе 17, вторая версия | `audio/14-zavtra-budet-dozhd-oksana.mp3` |
+| 14 | Мир твой | Глава 19 | `audio/05-mir-tvoj.mp3` |
+| 15 | Шёлковый рассвет | Глава 20 | `audio/09-shyolkovyj-rassvet.mp3` |
+| 16 | За краем тьмы | Глава 21 | `audio/04-za-kraem-tmy.mp3` |
+| 17 | Акварельные облака | Глава 22 | `audio/07-akvarelnye-oblaka.mp3` |
+| 18 | Сияющий горизонт | Эпилог | `audio/10-siyayushchij-gorizont.mp3` |
 
 ## Структура
 
